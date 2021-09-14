@@ -1,12 +1,9 @@
 {
   "name": "harso-css",
-  "version": "1.0.0",
+  "version": "2.0.6",
   "description": "A CSS Library to help you",
   "main": "harso.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "keywords": ["CSS", "css", "harso", "Library", "Java", "JavaScript", "javascript", "java script", "react", "React", "Vue", "Angular", "HTML", "Web", "Website", "A CSS library", "A CSS library to help", "your library", "Boostrap", "bootstrap", "language", "CSS3"],
   "author": "Sreehari.S",
-  "license": "ISC"
+  "license": "MIT"
 }

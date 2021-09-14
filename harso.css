@@ -210,3 +210,8 @@ follow  me at : https://codepen.io/sreehari521 */
 .a-no-decr{
     text-decoration: none;
 }
+
+/* Tis will make text center */
+.text-center{
+    text-align: center;
+}
