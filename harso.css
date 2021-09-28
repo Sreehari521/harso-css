@@ -1,15 +1,21 @@
 /* Developed by sreehari 
-On 30/7/2021
-follow  me at : https://codepen.io/sreehari521 */
+Copyright (c) forever Sreehari521 */
+
+/* Variables */
+:root{
+    --har-orange: rgb(252, 187, 10);
+    --har-blue: rgb(41, 88, 219);
+    --har-light-blue: rgb(6, 218, 247);
+    --har-yellow: rgb(244, 255, 86);
+    --har-white: rgb(255, 255, 255);
+    --har-dark: #131618;
+}
 
 /* Main Setup */
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
-
-/* Lets do with the class names */
 
 /* Fonts */
 .sans-serif{
@@ -30,16 +36,16 @@ follow  me at : https://codepen.io/sreehari521 */
 
 /* colors */
 .blue{
-    color: blue;
+    color: var(--har-blue);
 }
 .red{
     color: red;
 }
 .yellow{
-    color: yellow;
+    color: var(--har-yellow);
 }
 .white{
-    color: white;
+    color: var(--har-white);
 }
 .green{
     color: green;
@@ -48,13 +54,13 @@ follow  me at : https://codepen.io/sreehari521 */
     color: lightgreen;
 }
 .light-blue{
-    color: lightblue;
+    color: var(--har-light-blue);
 }
 .royal-blue{
     color: royalblue;
 }
-.black{
-    color: black;
+.dark{
+    color: var(--har-dark);
 }
 .brown{
     color: brown;
@@ -75,7 +81,7 @@ follow  me at : https://codepen.io/sreehari521 */
     color: indigo;
 }
 .orange{
-    color: orange;
+    color: var(--har-orange);
 }
 
 /* bg-colors */
@@ -211,7 +217,212 @@ follow  me at : https://codepen.io/sreehari521 */
     text-decoration: none;
 }
 
-/* Tis will make text center */
+/* This will make text center */
 .text-center{
     text-align: center;
+}
+
+/* Buttons */
+.btn-orange{
+    background: var(--har-orange);
+    width: 120px;
+    height: 30px;
+    border: 1px solid var(--har-dark);
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn-orange:active{
+    border: 2px solid var(--har-dark);
+}
+
+.btn-blue-1{
+    background: var(--har-blue);
+    width: 120px;
+    height: 30px;
+    border: 1px solid var(--har-dark);
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn-blue-1:active{
+    border: 2px solid var(--har-dark);
+}
+
+.btn-blue-2{
+    background: var(--har-light-blue);
+    width: 120px;
+    height: 30px;
+    border: 1px solid var(--har-dark);
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn-blue-2:active{
+    border: 2px solid var(--har-dark);
+}
+
+.btn-white{
+    background: var(--har-white);
+    width: 120px;
+    height: 30px;
+    border: 1px solid var(--har-dark);
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #000;
+}
+.btn-white:active{
+    border: 2px solid var(--har-dark);
+}
+
+.btn-dark{
+    background: var(--har-dark);
+    width: 120px;
+    height: 30px;
+    border: 1px solid var(--har-white);
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+}
+.btn-white:active{
+    border: 2px solid var(--har-white);
+}
+
+.btn-yellow{
+    background: var(--har-yellow);
+    width: 120px;
+    height: 30px;
+    border: 1px solid var(--har-dark);
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn-yellow:active{
+    border: 2px solid var(--har-dark);
+}
+
+/* Transitions */
+.trans-0dot1{
+    transition: 0.1s;
+}
+.trans-0dot2{
+    transition: 0.2s;
+}
+.trans-0dot3{
+    transition: 0.3s;
+}
+.trans-0dot4{
+    transition: 0.4s;
+}
+.trans-0dot5{
+    transition: 0.5s;
+}
+.trans-0dot6{
+    transition: 0.6s;
+}
+.trans-0dot7{
+    transition: 0.7s;
+}
+.trans-0dot8{
+    transition: 0.8s;
+}
+.trans-0dot9{
+    transition: 0.9s;
+}
+.trans-1{
+    transition: 1s;
+}
+.trans-1dot1{
+    transition: 1.1s;
+}
+.trans-1dot2{
+    transition: 1.2s;
+}
+.trans-1dot3{
+    transition: 1.3s;
+}
+.trans-1dot4{
+    transition: 1.4s;
+}
+.trans-1dot5{
+    transition: 1.5s;
+}
+.trans-1dot6{
+    transition: 1.6s;
+}
+.trans-1dot7{
+    transition: 1.7s;
+}
+.trans-1dot8{
+    transition: 1.8s;
+}
+.trans-1dot9{
+    transition: 1.9s;
+}
+.trans-2{
+    transition: 2s;
+}
+.trans-2dot1{
+    transition: 2.1s;
+}
+.trans-2dot2{
+    transition: 2.2s;
+}
+.trans-2dot3{
+    transition: 2.3s;
+}
+.trans-2dot4{
+    transition: 2.4s;
+}
+.trans-2dot5{
+    transition: 2.5s;
+}
+.trans-2dot6{
+    transition: 2.6s;
+}
+.trans-2dot7{
+    transition: 2.7s;
+}
+.trans-2dot8{
+    transition: 2.8s;
+}
+.trans-2dot9{
+    transition: 2.9s;
+}
+.trans-3{
+    transition: 3s;
+}
+
+/* Opacity */
+.op-0dot1{
+    opacity: 0.1;
+}
+.op-0dot2{
+    opacity: 0.2;
+}
+.op-0dot3{
+    opacity: 0.3;
+}
+.op-0dot4{
+    opacity: 0.4;
+}
+.op-0dot5{
+    opacity: 0.5;
+}
+.op-0dot6{
+    opacity: 0.6;
+}
+.op-0dot7{
+    opacity: 0.7;
+}
+.op-0dot8{
+    opacity: 0.8;
+}
+.op-0dot9{
+    opacity: 0.9;
+}
+.op-1{
+    opacity: 1;
 }
