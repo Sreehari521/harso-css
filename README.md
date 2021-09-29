@@ -12,14 +12,14 @@
 ### <h2>Fonts</h2>
 ### The first thing that this library include is it will automatically gives margin and padding as 0
 ### This can change your font-family only with a classname
-#### Example :``` <body class="sans-serif"></body> ``` #### => This will set the font family to sans-serif for every content inside the body
+#### Example :``` <body class="sans-serif"></body> ``` => This will set the font family to sans-serif for every content inside the body
 ### The fonts that we can use are : sans-serif, cursive, monospace, consolas, fantasy
 ### <br>
 ### <h2>Colors</h2>
-### <h3 style="color:blue;">Blue Text</h3> = ``` <h3 class="blue">Blue Text</h3> ```<br><br>
-### <h3 style="color:red;">Red Text</h3> = ``` <h3 class="red">Red Text</h3> ```<br><br>
-### <h3 style="color:rgb(244, 255, 86);">Yellow Text</h3> = ``` <h3 class="yellow">Yellow Text</h3> ```<br><br>
-### <h3 style="color:rgb(255, 255, 255);">White Text</h3> = ``` <h3 class="white">White Text</h3> ```<br><br>
-### <h3 style="color:green;">Green Text</h3> = ``` <h3 class="green">Green Text</h3> ```<br><br>
-### <h3 style="color:lightgreen;">Light Green Text</h3> = ``` <h3 class="light-green">Light Green Text</h3> ```<br><br>
-### <h2>There are more colors like this, that are :<span style="color:rgb(6, 218, 247)">light-blue</span>, <span style="color:royalblue;">royal-blue</span>, <span style="color:#131618;">dark</span>, <span style="color:brown;">brown</span>, <span style="color:pink;">pink</span>, <span style="color:plum;">plum</span>, <span style="color:violet">violet</span>, <span style="color:purple">purple</span>, <span style="color:indigo"></span> and <span style="color:rgb(252, 187, 10)">orange</span></h2>
+### <h3>Blue Text</h3> = ``` <h3 class="blue">Blue Text</h3> ```<br><br>
+### <h3>Red Text</h3> = ``` <h3 class="red">Red Text</h3> ```<br><br>
+### <h3>Yellow Text</h3> = ``` <h3 class="yellow">Yellow Text</h3> ```<br><br>
+### <h3>White Text</h3> = ``` <h3 class="white">White Text</h3> ```<br><br>
+### <h3>Green Text</h3> = ``` <h3 class="green">Green Text</h3> ```<br><br>
+### <h3>Light Green Text</h3> = ``` <h3 class="light-green">Light Green Text</h3> ```<br><br>
+### <h2>There are more colors like this, that are :<span>light-blue</span>, <span>royal-blue</span>, <span>dark</span>, <span>brown</span>, <span>pink</span>, <span>plum</span>, <span>violet</span>, <span>purple</span>, <span></span> and <span>orange</span></h2>
