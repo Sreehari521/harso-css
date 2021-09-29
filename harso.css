@@ -146,7 +146,7 @@ Copyright (c) forever Sreehari521 */
 .rainbow-text-infinite{
     animation: rainbow-text 3s linear infinite;
 }
-.rainbow-text-one-time-slowly{
+.rainbow-text-one-time-only{
     animation: rainbow-text 3s linear ease-in-out;
 }
 @keyframes rainbow-text{
@@ -176,7 +176,7 @@ Copyright (c) forever Sreehari521 */
 .rainbow-bg-infinite{
     animation: rainbow-text 3s linear infinite;
 }
-.rainbow-bg-one-time-slowly{
+.rainbow-bg-one-time-only{
     animation: rainbow-text 3s linear ease-in-out;
 }
 @keyframes rainbow-text{
@@ -205,11 +205,10 @@ Copyright (c) forever Sreehari521 */
 
 /* This will make a nav-bar */
 .nav-bar{
-    position: relative;
+    position: fixed;
     top: 0;
     width: 100%;
     height: 100px;
-    background: #000;
 }
 
 /* a without text-decoration */
@@ -304,6 +303,9 @@ Copyright (c) forever Sreehari521 */
 }
 
 /* Transitions */
+.trans-0{
+    transition: 0s;
+}
 .trans-0dot1{
     transition: 0.1s;
 }
@@ -396,6 +398,9 @@ Copyright (c) forever Sreehari521 */
 }
 
 /* Opacity */
+.op-0{
+    opacity: 0;
+}
 .op-0dot1{
     opacity: 0.1;
 }

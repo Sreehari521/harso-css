@@ -22,4 +22,44 @@
 ### <h3>White Text</h3> = ``` <h3 class="white">White Text</h3> ```<br><br>
 ### <h3>Green Text</h3> = ``` <h3 class="green">Green Text</h3> ```<br><br>
 ### <h3>Light Green Text</h3> = ``` <h3 class="light-green">Light Green Text</h3> ```<br><br>
-### <h2>There are more colors like this, that are :<span>light-blue</span>, <span>royal-blue</span>, <span>dark</span>, <span>brown</span>, <span>pink</span>, <span>plum</span>, <span>violet</span>, <span>purple</span>, <span></span> and <span>orange</span></h2>
+### <h2>There are more colors like this, that light-blue</span>, <span>royal-blue</span>, <span>dark</span>, <span>brown</span>, <span>pink</span>, <span>plum</span>, <span>violet</span>, <span>purple</span>, <span></span> and <span>orange</span></h2><hr>
+### <h2>Note: You can just add the prefix bg- to the color classnames for getting that bg(background) instead of color</h2><hr><hr><br>
+
+### <h2>Some Others...</h2>
+### <h3>Give this classname to an a tag, then it don't have any text-decoration</h3>
+### <h3>The class name nav-bar will make a nav-bar without any background color</h3>
+### <h3>class name text-center will make the text in the center</h3>
+### <h3>class name center will gives you display as flex, align-items as center, justify-content as center and min-height as 100vh</h3><br><br>
+
+### <h2>Animations</h2>
+### <h3>Give this classname to a tag : rainbow-bg-infinite, then the bg of that element will have a rainbow animation forever</h3>
+### <h3>Give this classname to a tag : rainbow-bg-one-time-only, then the bg of that element will have a rainbow animation for one time</h3>
+### <h3>Give this classname to a tag : rainbow-text-infinite, then the color of that element will have a rainbow animation forever</h3>
+### <h3>Give this classname to a tag : rainbow-text-one-time-only, then the color of that element will have a rainbow animation for one time</h3><br><br>
+
+### <h2>Buttons</h2>
+### <h3>We have many buttons, you can look it in <a href="https://sreehari521.github.io/harso-css/buttons.html">here</a></h3>
+### ```<button class="btn-orange">Hi</button>```
+### ```<button class="btn-blue-1">Hi</button>```
+### ```<button class="btn-blue-2">Hi</button>```
+### ```<button class="btn-white">Hi</button>```
+### ```<button class="btn-dark">Hi</button>```
+### ```<button class="btn-yellow">Hi</button>```<br><br>
+
+### <h2>Transitions</h2>
+### calss name ```trans-0 = transition: 0s;```
+### calss name ```trans-0dot1 = transition: 0.1s;```
+### like this we have trans-0dot2, trans-0dot3, trans-0dot4, trans-0dot5, trans-0dot6, trans-0dot7, trans-0dot8, trans-0dot9, trans-1, trans-1dot1, trans1dot2, trans-1dot3, trans-1dot4, trans-1dot5, trans-1dot6, trans-0dot7, trans-1dot8, trans-1dot9, trans-2, trans-2dot1 trans-2dot2, trans-2dot3, tans-2dot4, trans-2dot5, trans-2dot6, trans-2dot7, trans-2dot9, trans-3 <br><br>
+
+### <h2>Opacity</h2>
+### calss name ```op-0 = opacity: 0s;```
+### calss name ```op-0dot1 = opacity: 0.1s;```
+### calss name ```op-0dot2 = opacity: 0.2s;```
+### calss name ```op-0dot3 = opacity: 0.3s;```
+### calss name ```op-0dot4 = opacity: 0.4s;```
+### calss name ```op-0dot5 = opacity: 0.5s;```
+### calss name ```op-0dot6 = opacity: 0.6s;```
+### calss name ```op-0dot7 = opacity: 0.7s;```
+### calss name ```op-0dot8 = opacity: 0.8s;```
+### calss name ```op-0dot9 = opacity: 0.9s;```
+### calss name ```op-1 = opacity: 1s;```
