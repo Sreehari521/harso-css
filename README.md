@@ -26,7 +26,7 @@
 ### <h2>Note: You can just add the prefix bg- to the color classnames for getting that bg(background) instead of color</h2><hr><hr><br>
 
 ### <h2>Some Others...</h2>
-### <h3>Give this classname to an a tag, then it don't have any text-decoration</h3>
+### <h3>Give this classname to an a tag : a-no-decr, then it don't have any text-decoration</h3>
 ### <h3>The class name nav-bar will make a nav-bar without any background color</h3>
 ### <h3>class name text-center will make the text in the center</h3>
 ### <h3>class name center will gives you display as flex, align-items as center, justify-content as center and min-height as 100vh</h3><br><br>
