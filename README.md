@@ -47,19 +47,19 @@
 ### ```<button class="btn-yellow">Hi</button>```<br><br>
 
 ### <h2>Transitions</h2>
-### calss name ```trans-0 = transition: 0s;```
-### calss name ```trans-0dot1 = transition: 0.1s;```
+### class name ```trans-0 = transition: 0s;```
+### class name ```trans-0dot1 = transition: 0.1s;```
 ### like this we have trans-0dot2, trans-0dot3, trans-0dot4, trans-0dot5, trans-0dot6, trans-0dot7, trans-0dot8, trans-0dot9, trans-1, trans-1dot1, trans1dot2, trans-1dot3, trans-1dot4, trans-1dot5, trans-1dot6, trans-0dot7, trans-1dot8, trans-1dot9, trans-2, trans-2dot1 trans-2dot2, trans-2dot3, tans-2dot4, trans-2dot5, trans-2dot6, trans-2dot7, trans-2dot9, trans-3 <br><br>
 
 ### <h2>Opacity</h2>
-### calss name ```op-0 = opacity: 0s;```
-### calss name ```op-0dot1 = opacity: 0.1s;```
-### calss name ```op-0dot2 = opacity: 0.2s;```
-### calss name ```op-0dot3 = opacity: 0.3s;```
-### calss name ```op-0dot4 = opacity: 0.4s;```
-### calss name ```op-0dot5 = opacity: 0.5s;```
-### calss name ```op-0dot6 = opacity: 0.6s;```
-### calss name ```op-0dot7 = opacity: 0.7s;```
-### calss name ```op-0dot8 = opacity: 0.8s;```
-### calss name ```op-0dot9 = opacity: 0.9s;```
-### calss name ```op-1 = opacity: 1s;```
+### class name ```op-0 = opacity: 0s;```
+### class name ```op-0dot1 = opacity: 0.1s;```
+### class name ```op-0dot2 = opacity: 0.2s;```
+### class name ```op-0dot3 = opacity: 0.3s;```
+### class name ```op-0dot4 = opacity: 0.4s;```
+### class name ```op-0dot5 = opacity: 0.5s;```
+### class name ```op-0dot6 = opacity: 0.6s;```
+### class name ```op-0dot7 = opacity: 0.7s;```
+### class name ```op-0dot8 = opacity: 0.8s;```
+### class name ```op-0dot9 = opacity: 0.9s;```
+### class name ```op-1 = opacity: 1s;```
