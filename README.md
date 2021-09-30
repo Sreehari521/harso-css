@@ -7,6 +7,7 @@
 
 ## Installation
 * ```npm i harso-css```
+* https://cdn.jsdelivr.net/npm/harso-css@latest/ (install as a script tag)
 
 ## Documentation <br>
 ### <h2>Fonts</h2>
