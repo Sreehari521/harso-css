@@ -5,6 +5,10 @@
 * You can just give style to anythings with the ClassNames we say
 * Also don't forget to follow me on : <a href="https://github.com/Sreehari521">Github</a>, <a href="https://www.youtube.com/channel/UCYJKtrmrcSbFlNABR_JFWuQ/featured">Youtube</a>
 
+## Updates
+
+* Added code scanning to detect code errors [@Adatta1276](github.com/adatta1276)
+
 ## Installation
 * ```npm i harso-css```
 * https://cdn.jsdelivr.net/npm/harso-css@latest/ (install as a script tag)
